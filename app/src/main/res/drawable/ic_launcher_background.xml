@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Material 3 Deep Midnight Canvas -->
+    <path
+        android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="16"
+                android:startY="16"
+                android:endX="92"
+                android:endY="92"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#1A1829" />
+                <item android:offset="0.6" android:color="#12101E" />
+                <item android:offset="1.0" android:color="#0A0912" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- M3 Tonal Atmosphere Ambient Glow -->
+    <path
+        android:pathData="M54,24 A30,30 0 1,0 54,84 A30,30 0 1,0 54,24 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="28"
+                android:endX="54"
+                android:endY="80"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#282244" />
+                <item android:offset="1.0" android:color="#0018142E" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>

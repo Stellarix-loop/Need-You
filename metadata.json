@@ -1,0 +1,6 @@
+{
+  "name": "Need You",
+  "description": "Instant two-way ping app for friends to signal when they need each other or feel bored.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
